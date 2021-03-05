@@ -79,7 +79,6 @@ fn pull_usr_input() -> Result<String, std::io::Error> {
 }
 fn make_wifi_qr(t: &str, s: &str, p: &str, h: &str) -> Result<(), QRCodeError> {
     let contents = format!("WIFI:S:{};T:{};P:{};H:{};", t, s, p, h);
-    println!("{}", contents);
     qrcode_generator::to_png_to_file(contents, QrCodeEcc::Low, 1024, "wifi_login.png")?;
     Ok(())
 }
