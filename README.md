@@ -1,4 +1,11 @@
-          _______                   _____                    _____                    _____             _____
+  
+# An app to make qr codes and save em as .png files.
+
+
+  
+  
+  
+  _______                   _____                    _____                    _____             _____
          /::\    \                 /\    \                  /\    \                  /\    \           /\    \
         /::::\    \               /::\    \                /::\____\                /::\    \         /::\    \
        /::::::\    \             /::::\    \              /:::/    /               /::::\    \        \:::\    \
@@ -21,7 +28,6 @@
           ~~                       \|___|                   ~~                       \/____/
  
  
-An app to make qr codes and save em as .png files.
 
 _Why?_ --> Coz i don't trust the online ones?
 
